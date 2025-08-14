@@ -103,11 +103,7 @@ g++ Q2.cpp
 
 5.  Result Output
     Prints results for:
-
-        - Directory creation
-
-        - Content correctness
-
-        - File size match
-
-        - All permission checks for directory, old file, and new file.
+    - Directory creation
+    - Content correctness
+    - File size match
+    - All permission checks for directory, old file, and new file.
